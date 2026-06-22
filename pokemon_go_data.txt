@@ -1,0 +1,201 @@
+reaction|||OMG!! I just caught a 100% IV Shundo Rayquaza!!!
+hot_take|||Niantic rigged the PvP matchmaking algorithms.
+strategy_lore|||Primal Kyogre gets an attack power increase under rainy weather conditions.
+strategy_lore|||Shadow Machamp with Counter and Dynamic Punch outputs roughly 20 percent more damage per second than its regular non-shadow counterpart in Tyranitar raids.
+strategy_lore|||To maximize your stardust gains during Community Day, make sure to stack three Star Pieces consecutively to cover the entire three-hour event window.
+strategy_lore|||A 100 percent IV level 50 Melmetal reaches exactly 4069 CP, making it an excellent anchor for your Master League Premier team configuration.
+strategy_lore|||Origin Forme Dialga requires the special move Roar of Time to trigger its adventure effect, which pauses the timer on your Incense and Lucky Eggs.
+strategy_lore|||When short-manning a Mega Rayquaza raid, your team should focus exclusively on Ice-type attackers like Mamoswine because Rayquaza has a double weakness to Ice.
+strategy_lore|||The maximum interaction distance for spinning a PokéStop or gym photo disc is currently locked at 80 meters globally.
+strategy_lore|||Fast move sneaking was patched so that your fast attacks register immediately on the correct turn without dropping energy optimization in GBL.
+strategy_lore|||Lucario utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 50 percent after the first berry.
+strategy_lore|||Primal Kyogre boosts Water, Electric, and Bug attacks while it is active on the battlefield, even if it is sitting in your current bench slot.
+hot_take|||Niantic is intentionally reducing shiny rates during the final hour of global Go Fest events just to trick players into buying next year's early ticket.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a four-game win streak.
+hot_take|||Remote raid passes are a total scam now and Niantic is trying to kill off the entire player base that doesn't live in a major city center like Tokyo.
+hot_take|||Routes are the absolute worst feature ever introduced in mobile gaming history and anybody who actually enjoys using them is a corporate shill.
+hot_take|||Gen 9 Pokémon designs look like generic mobile app knockoffs and they completely ruin the classic aesthetic of the original game maps.
+hot_take|||Elite TMs are an artificial monetization bottleneck designed to force competitive players into spending fifty dollars a month on box bundles.
+hot_take|||Lucky trade odds are completely rigged based on how long you have been inactive; if you quit for a month, your next trade is guaranteed lucky.
+hot_take|||Master League is entirely pay-to-win and requires zero actual tactical skill because whoever spent more money on XL candies wins automatically.
+hot_take|||Shiny tracking apps should be completely banned and anyone using local community scanners should have their accounts deleted permanently.
+hot_take|||The new avatar update was a deliberate attempt to lower player satisfaction so they could test how much backlash the community would tolerate.
+reaction|||OMG!!! After doing 74 separate remote raids I finally got the Shundo Necrozma! I am literally shaking so hard right now!!
+reaction|||Are you kidding me? The app crashed right as the raid boss died and it completely ate my premium battle pass. I hate this game.
+reaction|||Wow, I just caught a random wild shiny Pikachu sitting right on my couch! What are the actual odds of that happening?
+reaction|||Can someone tell me if this shiny shadow alignment is worth keeping or should I just go ahead and purify it for the hundo?
+reaction|||Just hit level 40 after playing casually since July 2016! It took me ten years but I finally made it to the endgame!
+reaction|||Look at this tiny little XXS Bidoof I just hatched out of my 2km egg, he is an absolute king and I love him so much.
+reaction|||Is anyone else experiencing massive server lag in the Go Battle League right now? It keeps freezing on the charge attack screen.
+reaction|||Wow, another 2 star legendary from my weekly research breakthrough box. This is getting incredibly depressing week after week.
+reaction|||Shoutout to the random player from Germany who sent me a gift so I could complete my Vivillon medal collections today!
+reaction|||Let's gooo! Caught a perfect 100 percent IV shadow Mudkip on my walk home from school today! Best feeling ever!
+reaction|||Wow, I just caught a random wild shiny Sobble sitting right on my couch! What are the actual odds of that happening?
+reaction|||Wow, I just caught a random wild shiny Munchlax sitting right on my couch! What are the actual odds of that happening?
+reaction|||Wow, I just caught a random wild shiny Riolu sitting right on my couch! What are the actual odds of that happening?
+reaction|||Wow, I just caught a random wild shiny Mew Two sitting right on my couch! What are the actual odds of that happening?
+reaction|||Wow, I just caught a random wild shiny Lucario sitting right on my couch! What are the actual odds of that happening?
+reaction|||Wow, I just caught a random wild shiny Bronzor sitting right on my couch! What are the actual odds of that happening?
+reaction|||Wow, I just caught a random wild shiny Chingling sitting right on my hair! What are the actual odds of that happening?
+strategy_lore|||Charmeleon utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Charizard utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Wartortle utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Pidgey utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Beedrill utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Kakuna utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Metapod utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Caterpie utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Squirtle utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+strategy_lore|||Bulbasaur utilizing Force Palm updates its PvP profile significantly because it generates energy two turns faster than using Counter.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a one-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a two-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a three-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a five-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a six-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a seven-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit an eight-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a nine-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit a ten-game win streak.
+hot_take|||The Go Battle League algorithm tracks your team composition and purposely pairs you with absolute hard counters the moment you hit an elven-game win streak.
+reaction|||OMG!! I just caught a 90% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 80% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 70% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 60% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 50% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 40% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 30% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 20% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a 10% IV Shundo Rayquaza!!!
+reaction|||OMG!! I just caught a Mew Two Shinny!!!
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 60 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 40 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 70 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 80 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 90 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 20 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 30 percent after the first berry.
+strategy_lore|||Feeding pinberries to a gym defender from a remote distance reduces the motivation recovery efficiency by 50 percent after the first berry.
+strategy_lore|||Feeding goldenberries to a gym defender from a remote distance reduces the motivation recovery efficiency by 50 percent after the first berry.
+strategy_lore|||Feeding berries to a gym defender from a remote distance reduces the motivation recovery efficiency by 5 percent after the first berry.
+strategy_lore|||Mega Gengar utilizing Lick and Shadow Ball delivers optimal ghost type damage output against Psychic type raid bosses.
+strategy_lore|||The catch multiplier increases when you stack a Golden Razz Berry with a curved Excellent throw on a legendary boss.
+strategy_lore|||A perfect 15/15/15 level 50 Dragonite tops out at exactly 4287 CP for Master League standard match play.
+strategy_lore|||Primal Groudon provides a damage boost to Ground, Fire, and Grass type attacks while active on the field.
+strategy_lore|||Shadow Mewtwo outputs roughly 20 percent more psychic damage per second than its regular purified counterpart.
+strategy_lore|||Xerneas running Geomancy paired with Moonblast stands as a premier fairy type counter against fighting raid bosses.
+strategy_lore|||Trading a Pokémon caught in 2016 guarantees a lucky trade outcome up to a specific lifetime cap limit.
+strategy_lore|||The base capture rate for standard tier five legendary raid bosses sits at exactly two percent before modifiers.
+strategy_lore|||To trigger the roar of time adventure effect you must spend 5 Dialga candies and 5000 stardust per increment.
+strategy_lore|||Garchomp with Mud Shot and Earth Power optimizes energy generation speed during GO Battle League ground formats.
+strategy_lore|||Feeding a Golden Razz Berry to a gym defender fully restores its motivation meter instantly from any distance.
+strategy_lore|||Mega Swampert outperforms primal Kyogre in specific short-duration raids due to its faster charging Hydro Cannon move.
+strategy_lore|||The daily limit for standard remote raids is capped at five per day except during special global events.
+strategy_lore|||An Excellent throw circle size must be less than 20 percent of the total target circle diameter to trigger.
+strategy_lore|||Kartana represents the highest DPS grass type attacker in the game despite having very low baseline defensive bulk.
+strategy_lore|||Go battle league matches allow exactly two shields per player regardless of team composition or match length.
+strategy_lore|||Stunfisk in the Great League runs Mud Shot and Rock Slide to optimize maximum structural type coverage against flyers.
+strategy_lore|||Hatching a 10km egg provides significantly more stardust rewards than hatching five standard 2km eggs combined.
+strategy_lore|||The buddy excitement state is reached by collecting 32 total points across interaction categories like walking and feeding.
+strategy_lore|||Shadow Tyranitar with Smack Down handles Flying type mega bosses faster than standard rock type alternatives.
+strategy_lore|||Using a Super Incubator reduces the walking distance required to hatch an egg by exactly 33 percent.
+strategy_lore|||Kyogre utilizing Origin Pulse requires more energy to charge than Surf but delivers much higher burst output.
+strategy_lore|||Routes require players to walk between two specific pre-approved wayspots while staying within map boundary ranges.
+strategy_lore|||Mega Venusaur serves as an excellent defensive anchor for grass teams due to its Frenzy Plant speed.
+strategy_lore|||The maximum storage limit for items can be expanded up to a strict maximum using shop upgrades.
+strategy_lore|||Zekrom utilizing Fusion Bolt requires an Elite Charge TM if it was caught outside its debut event window.
+strategy_lore|||Shadow Gardevoir with Charm can completely fast-move down specific dragon types without needing a charge attack.
+strategy_lore|||Palkia Origin Forme running Spacial Rend expands your wild map interaction radius by ten percent when active.
+strategy_lore|||Defeating a Team GO Rocket Leader grants a guaranteed 12km Strange Egg if you have an open egg slot.
+strategy_lore|||Terrakion with Sacred Sword stands out as the absolute best rock fighting hybrid for normal type raid targets.
+strategy_lore|||Galarian Zapdos can only be encountered via Daily Adventure Incense and carries a 90 percent base flee rate.
+strategy_lore|||Swampert requires an Elite TM to learn Hydro Cannon if evolved outside of specific throwback event weeks.
+strategy_lore|||The trading distance limit is normally locked to 100 meters except during special trade bonus weekends.
+strategy_lore|||Mega Aerodactyl provides a candy bonus for matching rock types while active during catching screens.
+strategy_lore|||Rayquaza requires a Meteorite item to learn Dragon Ascent before it can successfully undergo Mega Evolution.
+strategy_lore|||Shadow Metagross with Bullet Punch and Meteor Mash easily duels any fairy type gym defender in seconds.
+strategy_lore|||A standard incense lasts for 60 minutes and requires movement to spawn Pokémon at maximum frequency.
+strategy_lore|||To evolve Ursaring into Ursaluna you must wait for a full moon event to appear in the active game sky.
+strategy_lore|||Gengar Mega Energy can be obtained by walking with any Gastly line buddy if you have unlocked the mega entry.
+strategy_lore|||The catch rate multiplier for a Great throw ranges from 1.3 to 1.7 depending on the exact circle radius.
+hot_take|||Niantic intentionally bugs the GBL servers during regional tournaments to favor specific high-profile influencer accounts.
+hot_take|||Showcases are completely rigged to give local players with multiple alt accounts the top ranks every single time.
+hot_take|||The Daily Adventure Incense only spawns Galarian birds for new accounts to prevent older players from quitting.
+hot_take|||XL candies are an artificial barrier meant to force casual players out of competitive Master League formats entirely.
+hot_take|||The current remote raid pass pricing is a deliberate corporate strategy to phase out rural players from the community.
+hot_take|||Niantic tracks your walking speed via GPS and lowers your egg hatch quality if you walk the same route daily.
+hot_take|||Zygarde cells are intentionally coded to not spawn on routes if you have spent zero money in the store that week.
+hot_take|||The new avatar customizations were rushed out purely to normalize lower quality assets for future cheaper monetization packages.
+hot_take|||Purifying a shadow legendary is an absolute insult to the game mechanics and anyone who does it should lose their account.
+hot_take|||Community days have become completely lazy rehashes of common spawns because the developers ran out of actual creative ideas.
+hot_take|||The catch circle mechanics are placebo and the game pre-determines if a legendary will flee the second you beat the raid.
+hot_take|||Elite Raids are a massive failure that only exist to satisfy Niantic's strange obsession with tracking real world location data.
+hot_take|||Shiny odds are lowered by 50 percent for anyone who plays more than four hours a day to prevent market oversaturation.
+hot_take|||The ready button in raid lobbies is totally useless and only added to make impatient players feel like they have control.
+hot_take|||Golden Razz Berries actually lower your catch rate on rare wild spawns to bait you into using up your entire inventory.
+hot_take|||Team GO Rocket battles are a tedious chore that add zero actual value or fun to the baseline gameplay loop.
+hot_take|||The friends list system is ancient and clunky because Niantic wants to limit easy international item trading.
+hot_take|||Master League requires absolutely zero tactical skill and is won 100 percent by whoever spent more money on raid passes.
+hot_take|||Lucky friends status is capped per account based on your region to stop players from completing their dexes too quickly.
+hot_take|||PokéStop scan tasks are a total scam to get free mapping labor from players without offering any real rewards.
+hot_take|||Every single update in the last three years has been designed to maximize data harvesting over actual player enjoyment.
+hot_take|||Campfire is a completely dead app that only corporate executives care about using to force artificial socializing.
+hot_take|||Mega Evolutions completely ruined the baseline strategy of gym defending by making every defender trivial to beat.
+hot_take|||The appraisal system is intentionally confusing so casual players cannot tell how bad their wild catches actually are.
+hot_take|||Adventure sync is heavily throttled on Android devices to cheat players out of their earned 50km fitness rewards.
+hot_take|||Niantic drops the server performance on purpose during standard raid hours to force people into buying more revives.
+hot_take|||The current meta for Ultra League is incredibly boring and anyone who runs Registeel has absolutely no creativity.
+hot_take|||Paid research tickets are an absolute rip-off that prey on completionist players who have severe fear of missing out.
+hot_take|||Weather boosts are completely random and do not match real world conditions because the weather API integration is cheap.
+hot_take|||Gifting is the most boring mechanic ever made and should be completely automated with a single send all button.
+hot_take|||Shadow Pokémon are completely unethical according to main series lore and should never have been added to GO.
+hot_take|||The catch rate of Galarian birds is a joke and makes the entire daily incense feature completely unrewarding.
+hot_take|||Niantic intentionally hides egg hatch pools behind microtransactions to bypass international mobile gambling regulations.
+hot_take|||The master ball was only added to stop community complaints about legendary catch mechanics running completely rampant.
+hot_take|||Routes are an unstable tracking nightmare that should be completely removed from the code architecture immediately.
+hot_take|||Local community leaders are just power-tripping gatekeepers who ruin the game for casual or solo players.
+hot_take|||Stardust costs for power-ups are artificially inflated to force an unhealthy amount of daily screen time engagement.
+hot_take|||Niantic tracks your coin balance and decreases your catch luck when you are close to needing a shop purchase.
+hot_take|||The go plus plus auto catcher device is a pay-to-win cheat code that ruins the competitive integrity of catching.
+hot_take|||Using third party matchmaking apps to host raids proves that the native in-game social features are an objective failure.
+reaction|||Wow I am so incredibly happy right now I just hatched a shiny Riolu on my final egg of the event!
+reaction|||The app just crashed right as I threw the ball at a shiny legendary and now it is completely gone.
+reaction|||Is anyone else seeing absolutely zero spawns on their map right now or are the servers completely broken again?
+reaction|||Check out this incredible 0 percent IV shadow Bidoof I just got! This is rarer than a hundo to me!
+reaction|||Can someone please explain how this player already has a max level version of a Pokémon that just came out today?
+reaction|||Finally hit best friends with my local raid buddy after trading items every single day for over three months!
+reaction|||Oh no I accidentally purified my perfect shadow Mewtwo because my phone screen was wet I want to cry.
+reaction|||Are you serious? Another weak two star reward from my hard earned weekly breakthrough box this is garbage.
+reaction|||Wow the sky graphics during this twilight event look absolutely beautiful shoutout to the visual designers.
+reaction|||Let us go! Just won five games in a row in the Ultra League and got an encounter reward!
+reaction|||Does anyone want to trade gifts from different countries? I really need postcards from the ocean region.
+reaction|||I can not believe I just caught a wild dragonite sitting directly in the middle of my local grocery store!
+reaction|||This new update layout looks completely terrible why did they change the buttons around for no reason?
+reaction|||YES! Finally got enough mega energy to evolve my Charizard after waiting for this event for six months!
+reaction|||Is anyone else experiencing crazy lag when trying to accept remote raid invites from friends tonight?
+reaction|||Look at this massive collection of shinies I got today! Best community day turnout I have ever had!
+reaction|||My 10km egg just hatched into a plain old regular Togedemaru I am so incredibly disappointed right now.
+reaction|||Shoutout to the yellow team players who helped me hold down the campus gym for over twenty four hours!
+reaction|||Wow I completely ran out of Pokéballs right as a rare wild spawn appeared on my screen this sucks.
+reaction|||Does anyone know if this specific moveset is considered good or should I use a charge TM to swap it?
+reaction|||OMG I JUST CLICKED A WILD PONYTA AND IT IS BLUE!! FIRST SHINY OF THE ENTIRE YEAR LFG!!
+reaction|||The game keeps saying error 0 when I try to log in using my Google account is anyone else down?
+reaction|||Just accidentally deleted my stack of twenty premium raid passes while trying to clean my inventory space.
+reaction|||Can we all agree that catching shadow Pokémon after a grunt battle is the most annoying throwing experience ever?
+reaction|||Wow just got a lucky trade with my brother and it turned into a 98 percent IV Kyogre!
+reaction|||Finally reached level 50 today! Ten long years of grinding this game has finally come to an end!
+reaction|||Why is this grunt using an absolute powerhouse team of three shadows that wipes out my top attackers?
+reaction|||Look at this tiny little tiny tiny ratata I found it is so funny looking sitting next to my buddy.
+reaction|||I am so sick of getting nothing but two star stats on premium remote raids that cost real money.
+reaction|||Wow someone in my local town just dropped a lure module on every single stop in the park thank you!
+reaction|||Has the shiny rate for this event been confirmed yet or is my luck just completely terrible today?
+reaction|||My 7km egg pool is completely stuck on Alolan Geodude week after week I can not take this anymore.
+reaction|||LFG!!! Caught the raid boss on my absolute final premier ball throw with an accidental nice marker throw!
+reaction|||Why did my daily incense spawn absolutely nothing even though I was walking at a brisk pace the whole time?
+reaction|||Just reached veteran rank in GBL for the first time in my entire life I am literally screaming!
+reaction|||The new route system keeps telling me I am too far away from the start point when I am standing on it.
+reaction|||Wow my buddy brought me a souvenir item today and it is a little torn ticket stub that is so cute.
+reaction|||Can someone invite me to a remote raid for the current boss? None are spawning near my rural area.
+reaction|||Just beat my very first tier five raid solo using a maxed out team of primal counters!
+reaction|||I can not believe the showcase reward was just some standard berries and two ultra balls what a joke.
+
