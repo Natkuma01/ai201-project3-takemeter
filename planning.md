@@ -1,65 +1,65 @@
-# TakeMeter Project Planning: Pokémon Community Discourse Classifier
+# TakeMeter Project Planning: Pokémon GO Community Discourse Classifier
 
 ## 1. Community Selection & Rationale
-* **Chosen Community:** Pokémon Online Communities (`r/pokemon` / `r/stunfisk`).
-* **Why this community?** Pokémon discourse is highly varied. It contains a passionate mix of casual fans, lore theorists, and hardcore competitive players. A single thread can contain a 5-paragraph mathematical breakdown of a Pokémon's competitive viability, a wild "hot take" claiming a universally loved generation is terrible, and pure emotional hype over catching a shiny or a new game trailer. This makes it an incredibly rich environment for testing a text classifier.
+* **Chosen Community:** Pokémon GO Online Communities (`r/TheSilphRoad` / `r/PokemonGO`).
+* **Why this community?** Pokémon GO discussions have a lot of variety. The community has casual players, people who track news, and hardcore players who study hidden game numbers. A single thread can contain a 3-paragraph breakdown of raid battle damage counters, a wild opinion claiming a new update ruined the game, or pure excitement about catching a rare shiny legendary. This mix makes it a great place to test a text classifier.
 
 ---
 
 ## 2. Label Taxonomy & Definitions
 
 ### Label: `strategy_lore`
-* **Definition:** The post or comment provides a structured, detailed argument backed by specific, verifiable game data (e.g., base stats, movepools, damage calculations, tier placements) or deep in-game lore/textual evidence.
-* **Example 1:** *"In Regulation G, Incineroar remains dominant because its access to Intimidate, Fake Out, and Parting Shot allows it to control the board pace. Even with the introduction of new attackers, its 95/90/90 bulk lets it survive a Choice Specs Tera Stellar Astral Barrage from Calyrex-Shadow."*
-* **Example 2:** *"The Paradox Pokémon aren't actually from the past or future; they are physical manifestations of the Professor’s imagination created by the Terapagos crystals. Look at the Occulture magazines in the academy—the sketches existed before the time machine was even built."*
+* **Definition:** The post or comment makes a clear argument using exact in-game facts, such as IV (Individual Value) stats, PvP movesets, break points, raid counters, or official map mechanics.
+* **Example 1:** *"For the upcoming Master League meta, you need a 15/15/14 Dialga because missing even one point in defense drops your breakpoint against Dragon Breath users, causing you to lose the mirror match completely."*
+* **Example 2:** *"Primal Kyogre is the absolute best raid counter for primal Groudon raids because its water type damage gets boosted by rainy weather, allowing a group of 3 players to finish the raid easily."*
 
 ### Label: `hot_take`
-* **Definition:** A bold, highly subjective, or controversial opinion about Pokémon designs, game quality, generation rankings, or competitive balance stated as a fact without structural or data-backed evidence.
-* **Example 1:** *"Generation 5 has the absolute worst designs in the entire franchise. Trubbish and Vanillite prove Game Freak completely ran out of ideas, and Black/White are entirely unplayable because of it."*
-* **Example 2:** *"Charizard is completely mid and only gets attention because of nostalgic Gen 1 boomers. If it came out in Gen 9, literally nobody would care about it."*
+* **Definition:** A bold, strong opinion about Niantic's choices, event ticket prices, shiny encounter odds, or features that is stated as an absolute fact without real proof or game data to back it up.
+* **Example 1:** *"The new update is a total scam designed to make remote players quit completely. Niantic is intentionally lowering shiny rates for anyone who doesn't buy the expensive live event tickets."*
+* **Example 2:** *"GO Battle League is completely rigged. The game intentionally matches you against an exact hard-counter team the moment you win three games in a row to keep your win rate at 50%."*
 
 ### Label: `reaction`
-* **Definition:** An immediate emotional response, exclamation, or surface-level feeling regarding a game announcement, a personal milestone (like a shiny hatch), or a casual observation without any deeper argumentative backing.
-* **Example 1:** *"OH MY GOD AFTER 4,000 RESETS I FINALLY GOT THE SHINY RAYQUAZA!!! I'M CRYING RIGHT NOW LFG!!!"*
-* **Example 2:** *"This new Legends trailer looks absolutely incredible!! The graphics look so much better and I cannot wait until next year!"*
+* **Definition:** A quick emotional response or simple feeling about an event, a personal achievement, or a bad connection error with no deep logical argument.
+* **Example 1:** *"OH MY GOD! After doing 45 raids, I finally caught the 100% IV Shundo Rayquaza!!! I am shaking so much right now!!!"*
+* **Example 2:** *"The game froze right as the raid boss died and I lost my pass! I hate this app so much, it is completely broken!"*
 
 ---
 
 ## 3. Hard Edge Cases & Boundary Rules
 
-### The Ambiguity: The "Decorative Stat" or "Cherry-Picked Lore"
-The hardest edge case occurs when a user shares a highly emotional or controversial opinion (`hot_take`) but drops a single base stat, move, or lore fact to make it look like a well-thought-out argument.
-* **Edge Case Example:** *"Pikachu is unironically a top-tier competitive threat in modern formats because Light Ball doubles its Attack stats."*
+### The Ambiguity: The "Decorative Stat"
+The hardest edge case happens when a user shares a strong, angry opinion (`hot_take`) but throws in a single stat or number just to make themselves look right.
+* **Edge Case Example:** *"Remote raid passes are a complete waste of coins because the catch rate is only 2 percent."*
 
 ### Explicit Decision Rule
-To maintain strict mutual exclusivity, we will apply **The Subtraction Rule**:
-* If you strip away the personal bias or aggressive opinion from the text, does a multi-step, objectively sound argument remain? 
-* In the Pikachu example above, the claim ignores the reality of Pikachu's terrible base bulk and speed tiers, using one item fact to push a wild opinion. Therefore, it is a **`hot_take`**. If the post went on to calculate specific damage match-ups against meta threats, it would become **`strategy_lore`**.
+To keep our labels clear, we use **The Subtraction Rule**:
+* Remove the emotional opinion from the text. Is there still a logical, multi-step argument left over?
+* In the example above, the user uses a single base capture rate fact just to push a sweeping angry opinion. Because there is no real logical argument left when you take away the anger, we label it a **`hot_take`**. If the post went on to mathematically compare pass costs to catch rewards, it would be **`strategy_lore`**.
 
 ---
 
 ## 4. Data Collection Plan
-* **Source:** Public threads on Reddit (`r/pokemon` for casual/lore, `r/stunfisk` for competitive strategy).
-* **Target Sample Size:** Minimum 200 total examples, aiming for an even split (~65–70 examples per label).
-* **Imbalance Strategy:** If `strategy_lore` is underrepresented, I will intentionally pull from competitive "Rate My Team" threads or lore-specific discussion tags to balance the dataset.
+* **Source:** Public posts on Reddit (`r/TheSilphRoad` for strategy, `r/PokemonGO` for opinions and hype).
+* **Target Sample Size:** At least 200 examples total, aiming for a balanced mix (~65–70 examples per label).
+* **Imbalance Strategy:** If we cannot find enough `strategy_lore` posts, I will look specifically inside PvP team-building threads to find them.
 
 ---
 
 ## 5. Evaluation Metrics
-1. **Overall Accuracy:** For overall pipeline health.
-2. **Macro-Averaged F1-Score:** To ensure the classifier performs evenly across all three labels, regardless of data distribution skew.
-3. **Per-Class Precision for `strategy_lore`:** If a user uses a tool to filter for deep strategy/lore, they don't want low-effort hot takes ruining their feed. We want precision for this class to be high.
+1. **Overall Accuracy:** To see how many posts the model gets right overall.
+2. **Macro-Averaged F1-Score:** To make sure the model performs well on all three labels, even if we have more of one label than the others.
+3. **Per-Class Precision for `strategy_lore`:** If a user wants to filter out noise to read deep strategy, they do not want opinions showing up. Precision tracks how often our model is right when it guesses this label.
 
 ---
 
 ## 6. Definition of Success
-* **Minimum Viable Accuracy:** $\ge 75\%$ overall accuracy on the test set.
-* **Target F1-Score:** Macro F1 $\ge 0.70$.
-* **Precision Safeguard:** Precision for `strategy_lore` must be $\ge 80\%$.
+* **Minimum Accuracy:** 75% or higher overall accuracy on the test set.
+* **Target F1-Score:** 0.70 or higher.
+* **Precision Safeguard:** Precision for `strategy_lore` must be 80% or higher.
 
 ---
 
 ## 7. AI Tool Plan
-* **Label Stress-Testing:** I will ask an LLM to generate borderline Pokémon statements to test my "Subtraction Rule" before manual annotation.
-* **Annotation Assistance:** I will completely hand-label all 200+ examples myself to prevent AI bias.
-* **Failure Analysis:** I will feed the model's eventual mistakes into an LLM to look for structural confusion patterns (e.g., short posts vs. long posts).
+* **Label Stress-Testing:** I will ask an AI to generate tricky, borderline Pokémon GO posts to test my sorting rules before I start labeling.
+* **Annotation Assistance:** I will hand-label all 200+ examples myself to ensure they are accurate.
+* **Failure Analysis:** I will give the model's mistakes to an AI to help me find patterns in what it got wrong.
